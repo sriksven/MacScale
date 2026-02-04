@@ -43,5 +43,5 @@ The script will generate the values for these GitHub repository secrets:
 
 This script is part of the enhanced TrackWeight fork that adds automated build pipelines.
 
-**Original TrackWeight project**: https://github.com/KrishKrosh/TrackWeight  
-**Created by**: Krish Shah (@KrishKrosh)
+**Original TrackWeight project**: https://github.com/sriksven/TrackWeight  
+**Created by**: Krishna Venkatesh (@sriksven)

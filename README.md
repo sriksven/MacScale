@@ -3,7 +3,7 @@
 **Turn your MacBook's trackpad into a precise digital weighing scale**
 
 [TrackWeight](
-https://x.com/KrishRShah/status/1947186835811193330) is a macOS application that transforms your MacBook's trackpad into an accurate weighing scale by leveraging the Force Touch pressure sensors built into modern MacBook trackpads.
+https://github.com/sriksven/TrackWeight) is a macOS application that transforms your MacBook's trackpad into an accurate weighing scale by leveraging the Force Touch pressure sensors built into modern MacBook trackpads.
 
 https://github.com/user-attachments/assets/7eaf9e0b-3dec-4829-b868-f54a8fd53a84
 
@@ -31,14 +31,14 @@ The key insight is that trackpad pressure events are only generated when there's
 
 ### Option 1: Download DMG (Recommended)
 
-1. Go to the [Releases](https://github.com/krishkrosh/TrackWeight/releases) page
+1. Go to the [Releases](https://github.com/sriksven/TrackWeight/releases) page
 2. Download the latest TrackWeight DMG file
 3. Open the DMG and drag TrackWeight.app to your Applications folder
 4. Run the application (you may need to allow it in System Preferences > Security & Privacy for unsigned builds)
 
 ### Option 2: Homebrew
 ```bash
-brew install --cask krishkrosh/apps/trackweight --force
+brew install --cask sriksven/apps/trackweight --force
 ```
  
 ### Option 3: Build from Source
